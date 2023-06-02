@@ -41,3 +41,4 @@ public void setMappingUrls(HashMap<String, Mapping> mappingUrls) {
 }
 
 }
+}
