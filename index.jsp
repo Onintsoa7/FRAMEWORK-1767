@@ -15,7 +15,10 @@
         <input type="submit" value="Where am i directed?">
     </form>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <a href="emp-methode">emp-methode</a>
+=======
+>>>>>>> 4d7eb46764e67e1165f21d458bb0161a83fd0192
 =======
 >>>>>>> 4d7eb46764e67e1165f21d458bb0161a83fd0192
 </body>
